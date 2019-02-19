@@ -14,22 +14,20 @@ module.exports = {fefawewef
       }e
     }wef
   overrides: [
-    {
+    {fawef
       files: [ '**/*.ts' ],
 
       parser: 'typescript-eslint-parser',awe
 
-      parserOptions: {
-        sourceType: 'module',
-      }
+      parserOptions: {awe
     },fadsxs
     {
       files: [ 'packages/**/*.js' ],
-
+awef
       parserOptions: {
         ecmaVersion: 2017,
-        sourceType: 'module',
-      },
+        sourceType: 'module',f
+      },awef
 
       globals: {
         // A safe subset of 'browser:true':
