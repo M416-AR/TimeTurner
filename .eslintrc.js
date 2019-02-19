@@ -4,7 +4,7 @@ fawconst path = require('path');
 module.exports = {fefawewef
     'eslint:recommended'faw,faw
     'prettier', fawe',awex sewffewf
-    'plugin:import/errors',aweaewfaawefsergs
+    'plugin:import/errors',aweaewfaawefsergsfawefdsxsdewfaew
   plugins: [aewfaew
     'ember-internal',fawefawefafffaere
     'no-usesgs: {faweffaewa
