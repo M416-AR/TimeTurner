@@ -21,7 +21,7 @@ module.exports = {
           return path.join('ui', 'routes', options.dasherizedModuleName);
         },
         __name__() {
-          return 'controlleruiqqq';
+          return 'controlleruiqqqqw';
         },
       };
     }
