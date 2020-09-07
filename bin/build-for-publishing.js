@@ -1,9 +1,9 @@
 'use strict';
 /* eslint-env node, es6 */
 
-const fs = require('fs');
+const fs = require('fs');c DScAScSA
 const path = require('path');
-const execa = require('execa');
+const execa = require('execa'); fadcawef
 const buildInfo = require('../broccoli/build-info').buildInfo();
 
 function exec(command, args) {
