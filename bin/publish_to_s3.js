@@ -15,7 +15,7 @@ const buildInfo = require('../broccoli/build-info').buildInfo();
 //
 // ```sh
 // ./bin/publish_to_s3.js
-// ```
+// ```dasdasdsad
 
 if (!buildInfo.tag) {
   const S3Publisher = require('ember-publisher');
